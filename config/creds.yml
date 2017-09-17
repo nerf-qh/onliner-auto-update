@@ -1,0 +1,6 @@
+---
+logins:
+- login: u1
+  passwd: '123'
+- login: u2
+  passwd: '222'
